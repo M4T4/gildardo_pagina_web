@@ -1727,3 +1727,20 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.whats-app {
+  align-items: center;
+  background-color: #25d366;
+  border-radius: 100%;
+  bottom: 3.5rem;
+  box-shadow: 0 0 24px 0 rgba(37, 211, 102, .5);
+  cursor: pointer;
+  display: flex;
+  height: 66px;
+  justify-content: center;
+  position: fixed;
+  right: 3rem;
+  transition: background-color .3s;
+  width: 66px;
+  z-index: 999;
+}
