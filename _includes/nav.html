@@ -6,16 +6,25 @@
     <li>
       <a class="{% if page.url == '/about.html' %}active{% endif %}" href="/about.html">Sobre mí</a>
     </li>
-    <li class="dropdown"><a href="#"><span>Terapias</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+    <li>
+      <a href="/index.html" class="{% if page.url == '/' %}active{% endif %}"> Áreas de especialización</a>
+    </li>
+
+    <li class="dropdown"><a href="#"><span>Servicios</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
       <ul>
 
-        <li><a href="#">Terapia presencial</a></li>
-        <li><a href="#">Terapia online</a></li>
+        <li><a href="#">Talleres Intensivos</a></li>
+        <li><a href="#">Programa para Estudiantes</a></li>
+        <li><a href="#">Programa Libre de Adicciones (Intensivo 6 semanas)</a></li>
+        <li><a href="#">Psicología del Alto Rendimiento</a></li>
+        <li><a href="#">Inteligencia Emocional en tu Empresa</a></li>
+        <li><a href="#">Psicoterapia Individual</a></li>
+        <li><a href="#">Psicoterapia de Pareja</a></li>
+        <li><a href="#">Psicología para Deportistas Jóvenes</a></li>
       </ul>
 
     </li>
-    <li><a href="#doctors">Equipo</a></li>
-    <li><a href="#contact">Contacto</a></li>
+    <li><a class="{% if page.url == '/contact.html' %}active{% endif %}" href="/contact.html">Contacto</a></li>
   </ul>
   <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
 </nav>
