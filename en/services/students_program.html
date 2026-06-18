@@ -6,57 +6,52 @@ layout: home
 lang: en
 ---
 
+{% assign service = site.data.translations.t[page.lang].services_pages.students_program_page %}
+
 <section class="about section">
 
   <div class="container">
+
     <div class="d-flex justify-content-center">
-
-      <h2 class="mb-5">Programa para estudiantes</h2>
+      <h2 class="mb-5">{{ service.title }}</h2>
     </div>
-
 
     <div class="row gy-5">
 
       <!-- Contenido -->
       <div class="col-lg-7">
-        <p>
-          Este programa está diseñado para estudiantes de secundaria y preparatoria que enfrentan presión académica,
-          estrés escolar, problemas emocionales o dificultades en su desarrollo personal.
-        </p>
 
-        <p>
-          Actualmente muchos jóvenes experimentan altos niveles de ansiedad, falta de motivación o dificultades para
-          manejar la presión académica y social.
-        </p>
+        <p>{{ service.paragraph_1 }}</p>
 
-        <p>
-          Este programa les ayuda a desarrollar habilidades psicológicas fundamentales para su bienestar y rendimiento.
-        </p>
+        <p>{{ service.paragraph_2 }}</p>
 
-        <h4 class="mt-4">El programa trabaja áreas como:</h4>
+        <p>{{ service.paragraph_3 }}</p>
+
+        <h4 class="mt-4">{{ service.areas_title }}</h4>
 
         <ul style="list-style-type: disc; padding-left: 1.5rem;">
-          <li class="mt-3">Manejo de ansiedad y estrés académico</li>
-          <li class="mt-2">Desarrollo de autoestima</li>
-          <li class="mt-2">Regulación emocional</li>
-          <li class="mt-2">Presión social y toma de decisiones</li>
-          <li class="mt-2">Hábitos saludables y disciplina personal</li>
+          <li class="mt-3">{{ service.area_1 }}</li>
+          <li class="mt-2">{{ service.area_2 }}</li>
+          <li class="mt-2">{{ service.area_3 }}</li>
+          <li class="mt-2">{{ service.area_4 }}</li>
+          <li class="mt-2">{{ service.area_5 }}</li>
         </ul>
+
       </div>
 
       <!-- Imagen lateral -->
       <div class="col-lg-5">
         <div class="overflow-hidden">
-          <img src="/assets/img/services/students.jpg" alt="Talleres Intensivos" class="w-100">
+          <img src="/assets/img/services/students.jpg"
+               alt="{{ service.title }}"
+               class="w-100">
         </div>
       </div>
 
-
       <div class="mt-3">
-        <strong>Objetivo:</strong>
-        <p> Ayudar a los estudiantes a desarrollar estabilidad emocional, confianza en sí mismos y habilidades que les
-          permitan afrontar los retos de esta etapa.
-        </p>
+        <strong>{{ service.objective_title }}</strong>
+
+        <p>{{ service.objective_description }}</p>
       </div>
 
     </div>

@@ -134,6 +134,70 @@ t:
       loading: "Loading"
       success_message: "Your message has been sent. Thank you!"
       send_button: "Send Message"
+    services_pages:
+      intensive_workshop_page:
+        title: "Intensive Workshops"
+
+        paragraph_1: "Intensive workshops are learning and psychological training spaces designed to develop emotional and well-being skills through a practical and dynamic format."
+
+        paragraph_2: "During these workshops, participants work with tools based on clinical psychology and cognitive-behavioral therapy that help them better understand their emotions, improve decision-making, and strengthen personal well-being."
+
+        topics_title: "Topics Covered"
+
+        topic_1: "Stress and anxiety management"
+        topic_2: "Emotional regulation"
+        topic_3: "Self-esteem and self-confidence"
+        topic_4: "Conflict management"
+        topic_5: "Personal development"
+
+        modality_title: "Format:"
+        modality_description: "Intensive group sessions with practical exercises and tools applicable to daily life."
+
+        objective_title: "Objective:"
+        objective_description: "To provide participants with concrete strategies they can immediately apply in their personal or professional lives."
+      students_program_page:
+        title: "Student Program"
+
+        paragraph_1: "This program is designed for middle school and high school students who face academic pressure, school-related stress, emotional challenges, or difficulties in their personal development."
+
+        paragraph_2: "Today, many young people experience high levels of anxiety, lack of motivation, or difficulties managing academic and social pressures."
+
+        paragraph_3: "This program helps them develop essential psychological skills that support both their well-being and academic performance."
+
+        areas_title: "The program focuses on areas such as:"
+
+        area_1: "Managing anxiety and academic stress"
+        area_2: "Building self-esteem"
+        area_3: "Emotional regulation"
+        area_4: "Social pressure and decision-making"
+        area_5: "Healthy habits and personal discipline"
+
+        objective_title: "Objective:"
+        objective_description: "To help students develop emotional stability, self-confidence, and practical skills that enable them to successfully navigate the challenges of this stage of life."
+      addiction_program_page:
+        title: "Addiction Recovery Program (6-Week Intensive)"
+
+        paragraph_1: "The Addiction Recovery Program is designed for individuals who want to regain control of their lives and overcome addictive behaviors."
+
+        paragraph_2: "Addiction affects not only physical and emotional health, but also personal relationships, work performance, and overall quality of life."
+
+        areas_title: "This program provides structured psychological support focused on:"
+
+        area_1: "Identifying emotional triggers"
+        area_2: "Impulse management"
+        area_3: "Developing self-control"
+        area_4: "Relapse prevention"
+        area_5: "Rebuilding healthy habits"
+
+        paragraph_3: "The program uses tools based on cognitive-behavioral therapy and clinical psychology to help individuals better understand their behavior and develop sustainable strategies for change."
+
+        objective_title: "Objective:"
+        objective_description: "To help individuals regain emotional stability, strengthen self-control, and build a life free from addiction."
+      high_performance_page:
+      emotional_intelligence_page:
+      individual_therapy_page:
+      couples_therapy_page:
+      young_athletes_page:
   es:
     navigation:
       lang: ES
@@ -269,3 +333,62 @@ t:
       loading: "Cargando"
       success_message: "Tu mensaje ha sido enviado. ¡Gracias!"
       send_button: "Enviar mensaje"
+    services_pages:
+      intensive_workshop_page:
+        title: "Talleres Intensivos"
+
+        paragraph_1: "Los talleres intensivos son espacios de aprendizaje y entrenamiento psicológico diseñados para desarrollar habilidades emocionales y de bienestar en un formato práctico y dinámico."
+
+        paragraph_2: "Durante estos talleres se trabajan herramientas basadas en psicología clínica y terapia cognitivo-conductual que permiten a los participantes comprender mejor sus emociones, mejorar su toma de decisiones y fortalecer su bienestar personal."
+
+        topics_title: "Temas que se abordan"
+
+        topic_1: "Manejo del estrés y la ansiedad"
+        topic_2: "Regulación emocional"
+        topic_3: "Autoestima y seguridad personal"
+        topic_4: "Manejo de conflictos"
+        topic_5: "Desarrollo personal"
+
+        modality_title: "Modalidad:"
+        modality_description: "Sesiones grupales intensivas con ejercicios prácticos y herramientas aplicables a la vida diaria."
+
+        objective_title: "Objetivo:"
+        objective_description: "Que los participantes se lleven estrategias concretas que puedan implementar inmediatamente en su vida personal o profesional."
+      students_program_page:
+        title: "Programa para estudiantes"
+
+        paragraph_1: "Este programa está diseñado para estudiantes de secundaria y preparatoria que enfrentan presión académica, estrés escolar, problemas emocionales o dificultades en su desarrollo personal."
+
+        paragraph_2: "Actualmente muchos jóvenes experimentan altos niveles de ansiedad, falta de motivación o dificultades para manejar la presión académica y social."
+
+        paragraph_3: "Este programa les ayuda a desarrollar habilidades psicológicas fundamentales para su bienestar y rendimiento."
+
+        areas_title: "El programa trabaja áreas como:"
+
+        area_1: "Manejo de ansiedad y estrés académico"
+        area_2: "Desarrollo de autoestima"
+        area_3: "Regulación emocional"
+        area_4: "Presión social y toma de decisiones"
+        area_5: "Hábitos saludables y disciplina personal"
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a los estudiantes a desarrollar estabilidad emocional, confianza en sí mismos y habilidades que les permitan afrontar los retos de esta etapa."
+      addiction_program_page:
+        title: "Programa Libre de Adicciones (Intensivo 6 semanas)"
+
+        paragraph_1: "El programa libre de adicciones está diseñado para personas que desean recuperar el control de su vida y superar conductas adictivas."
+
+        paragraph_2: "Las adicciones no solo afectan la salud física y emocional, sino también las relaciones personales, el desempeño laboral y la calidad de vida."
+
+        areas_title: "Este programa ofrece un acompañamiento psicológico estructurado enfocado en:"
+
+        area_1: "Identificación de detonantes emocionales"
+        area_2: "Manejo de impulsos"
+        area_3: "Desarrollo de autocontrol"
+        area_4: "Prevención de recaídas"
+        area_5: "Reconstrucción de hábitos saludables"
+
+        paragraph_3: "Se utilizan herramientas basadas en terapia cognitivo conductual y psicología clínica para ayudar a las personas a comprender su conducta y desarrollar estrategias sostenibles de cambio."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las personas a recuperar estabilidad emocional, fortalecer su autocontrol y construir una vida libre de adicciones."
