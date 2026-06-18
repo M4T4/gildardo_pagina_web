@@ -93,6 +93,47 @@ t:
       success_cases: "Success stories"
       reviews: "5-star reviews"
     testimonials:
+    about_page:
+      title: "I am Gildardo Lucero, and I help people develop mental strength and resilience to face life's challenges."
+
+      paragraph_1: "From a young age, I was passionate about sports, both individual and team disciplines. I was always fascinated by how some athletes manage pressure in decisive moments: when everything comes down to a single play, when character is needed to win—or even to accept defeat."
+
+      paragraph_2: "Over time, in my clinical work, I began noticing something that deeply impacted me. Some young people between the ages of 17 and 20 came to therapy feeling emotionally defeated after difficult experiences in sports."
+
+      paragraph_3: "Many of them also began developing addiction-related problems, whether involving substances or behaviors such as gambling."
+
+      paragraph_4: "This sparked a professional interest in understanding addictions more deeply and how pressure, frustration, and loss of direction can affect a person's life."
+
+      paragraph_5: "Throughout my education and clinical experience, I have come to understand two worlds that often intersect despite appearing very different: sports and addiction."
+
+      paragraph_6: "Today, my work focuses on helping people regain direction, strengthen their character, and develop the emotional skills needed to remain resilient in the face of pressure, setbacks, relapses, and life's challenges."
+
+      psychologist_name: "Psychologist Gildardo Lucero Sainz"
+
+      paragraph_7: "I work with adolescents and adults who want to regain emotional stability, improve their relationships, and learn to manage anxiety and depression."
+
+      paragraph_8: "I have more than 12 years of clinical experience, as well as diplomas and national certifications in the treatment of addictions, anxiety disorders, and depression."
+
+      paragraph_9: "I work under the cognitive-behavioral approach, an evidence-based model focused on creating real, practical, and sustainable change in people's lives."
+
+      paragraph_10: "My goal is for you to begin noticing positive changes from the very first sessions through clear tools and a therapeutic process focused on results."
+
+      paragraph_11: "From our first meeting, I strive to create a space of trust, openness, and collaboration where you can feel heard, understood, and supported throughout your process of change."
+    contact_page:
+      title: "Contact"
+      subtitle: "Find our office"
+
+      whatsapp: "WhatsApp"
+      email: "Email"
+
+      name_placeholder: "Name"
+      email_placeholder: "Email"
+      subject_placeholder: "Subject"
+      message_placeholder: "Message"
+
+      loading: "Loading"
+      success_message: "Your message has been sent. Thank you!"
+      send_button: "Send Message"
   es:
     navigation:
       lang: ES
@@ -187,3 +228,44 @@ t:
 
       phone: "Teléfono"
       email: "Correo"
+    about_page:
+      title: "Soy Gildardo Lucero, y ayudo a las personas a desarrollar fortaleza mental y constancia para enfrentar los retos de la vida."
+
+      paragraph_1: "Desde joven me apasionaron los deportes, tanto individuales como de equipo. Siempre me llamó la atención cómo algunos jugadores logran manejar la presión en momentos decisivos: cuando todo se define en una jugada, cuando se necesita carácter para ganar… o incluso para aceptar una derrota."
+
+      paragraph_2: "Con el tiempo, en mi trabajo clínico, comencé a notar algo que me impactó profundamente. Algunos jóvenes entre los 17 y 20 años llegaban a consulta emocionalmente derrotados después de experiencias difíciles en el deporte."
+
+      paragraph_3: "Muchos de ellos, además, comenzaban a desarrollar problemas de adicción, ya fuera a sustancias o a conductas como el juego."
+
+      paragraph_4: "Esto despertó en mí una inquietud profesional: entender a profundidad el fenómeno de las adicciones y cómo la presión, la frustración y la pérdida de rumbo pueden afectar la vida de una persona."
+
+      paragraph_5: "A lo largo de mi formación y experiencia clínica he podido comprender dos mundos que, aunque parecen distintos, muchas veces se conectan: el deporte y las adicciones."
+
+      paragraph_6: "Hoy mi trabajo se enfoca en ayudar a las personas a recuperar su dirección, fortalecer su carácter y desarrollar las habilidades emocionales necesarias para mantenerse firmes ante la presión, las recaídas y los desafíos de la vida."
+
+      psychologist_name: "Psicólogo Gildardo Lucero Sainz"
+
+      paragraph_7: "Acompaño a adolescentes y adultos que buscan recuperar su estabilidad emocional, mejorar sus relaciones y aprender a manejar la ansiedad y depresión."
+
+      paragraph_8: "Cuento con más de 12 años de experiencia clínica, así como con diplomado y certificaciones a nivel nacional en el tratamiento de adicciones y trastornos de ansiedad y depresión."
+
+      paragraph_9: "Trabajo bajo el enfoque cognitivo-conductual, un modelo basado en evidencia científica que se enfoca en generar cambios reales, prácticos y sostenibles en la vida de las personas."
+
+      paragraph_10: "Mi objetivo es que puedas comenzar a notar cambios desde las primeras sesiones, a través de herramientas claras y un trabajo terapéutico enfocado en resultados."
+
+      paragraph_11: "Desde el primer encuentro busco crear un espacio de confianza, apertura y trabajo colaborativo, donde puedas sentirte escuchado, comprendido y acompañado durante tu proceso de cambio."
+    contact_page:
+      title: "Contacto"
+      subtitle: "Encuentra nuestro consultorio"
+
+      whatsapp: "Whatsapp"
+      email: "Correo"
+
+      name_placeholder: "Nombre"
+      email_placeholder: "Correo"
+      subject_placeholder: "Asunto"
+      message_placeholder: "Mensaje"
+
+      loading: "Cargando"
+      success_message: "Tu mensaje ha sido enviado. ¡Gracias!"
+      send_button: "Enviar mensaje"
