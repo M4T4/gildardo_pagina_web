@@ -7,10 +7,18 @@
       <!-- Calendario Doctoralia -->
       <div class="col-lg-5">
         <div class="doctoralia-widget">
-          <a id="zl-url" class="zl-url" href="https://www.doctoralia.com.mx/gildardo-lucero/psicologo/tijuana"
-            rel="nofollow" data-zlw-doctor="gildardo-lucero" data-zlw-type="big_with_calendar" data-zlw-opinion="false"
-            data-zlw-hide-branding="true" data-zlw-saas-only="true"
-            data-zlw-a11y-title="Widget de reserva de citas médicas">Reserve una cita</a>
+          <a id="zl-url"
+            class="zl-url"
+            href="https://www.doctoralia.com.mx/gildardo-lucero/psicologo/tijuana"
+            rel="nofollow"
+            data-zlw-doctor="gildardo-lucero"
+            data-zlw-type="big_with_calendar"
+            data-zlw-opinion="false"
+            data-zlw-hide-branding="true"
+            data-zlw-saas-only="true"
+            data-zlw-a11y-title="{{ site.data.translations.t[page.lang].schedule.widget_title }}">
+            {{ site.data.translations.t[page.lang].schedule.widget_title }}
+          </a>
         </div>
       </div>
 
@@ -18,40 +26,40 @@
       <div class="col-lg-7">
 
         <h2 class="mb-3">
-          Agenda tu cita
+          {{ site.data.translations.t[page.lang].schedule.title }}
         </h2>
 
         <p class="lead mb-4">
-          Da el primer paso hacia tu bienestar emocional.
-          Agenda de forma sencilla a través del calendario y
-          selecciona el horario que mejor se adapte a ti.
+          {{ site.data.translations.t[page.lang].schedule.description }}
         </p>
 
         <ul class="list-unstyled">
+
           <li class="mb-3">
             <i class="bi bi-check-circle-fill text-primary me-2"></i>
-            Selecciona la fecha y hora que prefieras.
+            {{ site.data.translations.t[page.lang].schedule.item_1 }}
           </li>
 
           <li class="mb-3">
             <i class="bi bi-check-circle-fill text-primary me-2"></i>
-            Confirma tu cita de manera rápida y segura.
+            {{ site.data.translations.t[page.lang].schedule.item_2 }}
           </li>
 
           <li class="mb-3">
             <i class="bi bi-check-circle-fill text-primary me-2"></i>
-            Atención presencial y en línea.
+            {{ site.data.translations.t[page.lang].schedule.item_3 }}
           </li>
 
           <li class="mb-3">
             <i class="bi bi-check-circle-fill text-primary me-2"></i>
-            Más de 25 años de experiencia acompañando a familias y parejas.
+            {{ site.data.translations.t[page.lang].schedule.item_4 }}
           </li>
+
         </ul>
 
         <div class="mt-4">
           <p class="fst-italic">
-            "Cada proceso comienza con una conversación."
+            "{{ site.data.translations.t[page.lang].schedule.quote }}"
           </p>
         </div>
 

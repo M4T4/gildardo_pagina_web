@@ -1,0 +1,618 @@
+t:
+  en:
+    navigation:
+      lang: "EN"
+      home: "Home"
+      about: "About Me"
+      specializations: "Areas of Specialization"
+      services: "Services"
+      contact: "Contact"
+      appointment: "Book an Appointment"
+    hero:
+      welcome: "Welcome to Lusan"
+      subtitle: "Psychological Center in Tijuana"
+      quote: "25 years helping families heal and strengthen their bonds"
+      cta: "Schedule an Appointment"
+    about:
+      title: "Our Team"
+      name: "Alejandra Sainz Huerta"
+      quote: "25 years helping families heal and strengthen their relationships"
+      paragraph_1: "For more than two decades, she has worked with children, adolescents, couples, and families through processes of growth, reconciliation, and emotional well-being, providing a safe space to strengthen communication, heal emotional wounds, and build healthier relationships."
+      paragraph_2: "With a Master's degree in Family Therapy from CIDH and more than 25 years of experience, I have had the privilege of supporting hundreds of families, couples, and individuals through some of the most difficult moments of their lives. I have witnessed firsthand how relationship crises can impact emotional health, how addictions can fracture family bonds, and how loss and grief challenge us to rebuild ourselves."
+      paragraph_3: "My professional journey began in rehabilitation centers in Rosarito (Rescatando Almas), where I learned that recovery is not only an individual process but one that involves the entire family system. I have also shared this knowledge as a professor at UNIDEP and through workshops in schools covering topics such as bullying prevention, sexual education, and inclusion."
+      paragraph_4: "Today, through my private practice, I support families, couples, and individuals seeking to restore emotional balance. I work especially with couples in crisis, helping them rebuild communication and trust, and with families affected by addiction, where the path to recovery is a collective journey."
+    gallery:
+      title: "Gallery"
+      description: "Get to know our office"
+    schedule:
+      title: "Schedule Your Appointment"
+      description: "Take the first step toward emotional well-being. Easily schedule through the calendar and choose the time that works best for you."
+      item_1: "Select the date and time you prefer."
+      item_2: "Confirm your appointment quickly and securely."
+      item_3: "In-person and online sessions available."
+      item_4: "More than 25 years of experience supporting families and couples."
+      quote: "Every process begins with a conversation."
+      widget_title: "Book an appointment"
+    services:
+      title: "Services"
+      description: "Find the support you need to improve your well-being, performance, and quality of life."
+      intensive_workshops:
+        title: "Intensive Workshops"
+        description: "We design customized workshops for companies and sports teams, focused on their specific needs."
+      students_program:
+        title: "Student Program"
+        description: "Personalized support to help students improve emotional well-being, focus, and academic performance."
+      addiction_program:
+        title: "Addiction Recovery Program"
+        description: "We provide specialized treatment for individuals seeking to overcome addiction and regain stability."
+      high_performance:
+        title: "High Performance Psychology"
+        description: "Designed for patients with prior therapy experience who want to enhance mental skills and personal performance."
+      emotional_intelligence:
+        title: "Emotional Intelligence for Your Company"
+        description: "We train organizations in emotional skills aligned with NOM-035 and workplace well-being."
+      individual_therapy:
+        title: "Individual Psychotherapy"
+        description: "A personalized therapeutic process with psychological assessment and emotional development support."
+      couples_therapy:
+        title: "Couples Therapy"
+        description: "A professional space to work through conflicts, improve communication, and strengthen relationships."
+      young_athletes:
+        title: "Psychology for Young Athletes"
+        description: "Mental training for young athletes seeking to improve focus, discipline, and competitive performance."
+    footer:
+      company_name: "Lusan Psychological Center"
+
+      links_title: "Links"
+      home: "Home"
+      about: "About"
+      team: "Team"
+      contact: "Contact"
+      privacy_policy: "Privacy Policy"
+
+      therapies_title: "Therapies"
+      online_therapy: "Online Therapy"
+      in_person_therapy: "In-Person Therapy"
+
+      phone: "Phone"
+      email: "Email"
+    specializations:
+      title: "Areas of Specialization"
+      anxiety: "Anxiety Specialist"
+      athletes: "High-Performance Athletes"
+      addictions: "Addictions"
+      couples: "Couples Therapy"
+      adhd: "ADHD"
+      gambling: "Gambling Addiction"
+      personal_growth: "Personal and Emotional Development"
+      teens_adults: "Therapy for Adolescents and Adults"
+      description: "My approach focuses on clear goals, professional follow-up, and measurable results, promoting functional reintegration and the overall well-being of each individual. If you would like to learn more about my methodology and services, I would be pleased to accompany you through your process."
+    stats:
+      patients: "Patients served"
+      experience: "Years of experience"
+      success_cases: "Success stories"
+      reviews: "5-star reviews"
+    testimonials:
+    about_page:
+      title: "I am Gildardo Lucero, and I help people develop mental strength and resilience to face life's challenges."
+
+      paragraph_1: "From a young age, I was passionate about sports, both individual and team disciplines. I was always fascinated by how some athletes manage pressure in decisive moments: when everything comes down to a single play, when character is needed to win—or even to accept defeat."
+
+      paragraph_2: "Over time, in my clinical work, I began noticing something that deeply impacted me. Some young people between the ages of 17 and 20 came to therapy feeling emotionally defeated after difficult experiences in sports."
+
+      paragraph_3: "Many of them also began developing addiction-related problems, whether involving substances or behaviors such as gambling."
+
+      paragraph_4: "This sparked a professional interest in understanding addictions more deeply and how pressure, frustration, and loss of direction can affect a person's life."
+
+      paragraph_5: "Throughout my education and clinical experience, I have come to understand two worlds that often intersect despite appearing very different: sports and addiction."
+
+      paragraph_6: "Today, my work focuses on helping people regain direction, strengthen their character, and develop the emotional skills needed to remain resilient in the face of pressure, setbacks, relapses, and life's challenges."
+
+      psychologist_name: "Psychologist Gildardo Lucero Sainz"
+
+      paragraph_7: "I work with adolescents and adults who want to regain emotional stability, improve their relationships, and learn to manage anxiety and depression."
+
+      paragraph_8: "I have more than 12 years of clinical experience, as well as diplomas and national certifications in the treatment of addictions, anxiety disorders, and depression."
+
+      paragraph_9: "I work under the cognitive-behavioral approach, an evidence-based model focused on creating real, practical, and sustainable change in people's lives."
+
+      paragraph_10: "My goal is for you to begin noticing positive changes from the very first sessions through clear tools and a therapeutic process focused on results."
+
+      paragraph_11: "From our first meeting, I strive to create a space of trust, openness, and collaboration where you can feel heard, understood, and supported throughout your process of change."
+    contact_page:
+      title: "Contact"
+      subtitle: "Find our office"
+
+      whatsapp: "WhatsApp"
+      email: "Email"
+
+      name_placeholder: "Name"
+      email_placeholder: "Email"
+      subject_placeholder: "Subject"
+      message_placeholder: "Message"
+
+      loading: "Loading"
+      success_message: "Your message has been sent. Thank you!"
+      send_button: "Send Message"
+    services_pages:
+      intensive_workshop_page:
+        title: "Intensive Workshops"
+
+        paragraph_1: "Intensive workshops are learning and psychological training spaces designed to develop emotional and well-being skills through a practical and dynamic format."
+
+        paragraph_2: "During these workshops, participants work with tools based on clinical psychology and cognitive-behavioral therapy that help them better understand their emotions, improve decision-making, and strengthen personal well-being."
+
+        topics_title: "Topics Covered"
+
+        topic_1: "Stress and anxiety management"
+        topic_2: "Emotional regulation"
+        topic_3: "Self-esteem and self-confidence"
+        topic_4: "Conflict management"
+        topic_5: "Personal development"
+
+        modality_title: "Format:"
+        modality_description: "Intensive group sessions with practical exercises and tools applicable to daily life."
+
+        objective_title: "Objective:"
+        objective_description: "To provide participants with concrete strategies they can immediately apply in their personal or professional lives."
+      students_program_page:
+        title: "Student Program"
+
+        paragraph_1: "This program is designed for middle school and high school students who face academic pressure, school-related stress, emotional challenges, or difficulties in their personal development."
+
+        paragraph_2: "Today, many young people experience high levels of anxiety, lack of motivation, or difficulties managing academic and social pressures."
+
+        paragraph_3: "This program helps them develop essential psychological skills that support both their well-being and academic performance."
+
+        areas_title: "The program focuses on areas such as:"
+
+        area_1: "Managing anxiety and academic stress"
+        area_2: "Building self-esteem"
+        area_3: "Emotional regulation"
+        area_4: "Social pressure and decision-making"
+        area_5: "Healthy habits and personal discipline"
+
+        objective_title: "Objective:"
+        objective_description: "To help students develop emotional stability, self-confidence, and practical skills that enable them to successfully navigate the challenges of this stage of life."
+      addiction_program_page:
+        title: "Addiction Recovery Program (6-Week Intensive)"
+
+        paragraph_1: "The Addiction Recovery Program is designed for individuals who want to regain control of their lives and overcome addictive behaviors."
+
+        paragraph_2: "Addiction affects not only physical and emotional health, but also personal relationships, work performance, and overall quality of life."
+
+        areas_title: "This program provides structured psychological support focused on:"
+
+        area_1: "Identifying emotional triggers"
+        area_2: "Impulse management"
+        area_3: "Developing self-control"
+        area_4: "Relapse prevention"
+        area_5: "Rebuilding healthy habits"
+
+        paragraph_3: "The program uses tools based on cognitive-behavioral therapy and clinical psychology to help individuals better understand their behavior and develop sustainable strategies for change."
+
+        objective_title: "Objective:"
+        objective_description: "To help individuals regain emotional stability, strengthen self-control, and build a life free from addiction."
+      high_performance_page:
+        title: "High Performance Psychology"
+
+        paragraph_1: "High Performance Psychology is designed to help individuals reach their full potential in environments where pressure, competition, and expectations are high."
+
+        paragraph_2: "Professionals, entrepreneurs, high-achieving students, and athletes often face significant levels of stress, self-imposed pressure, and performance demands. In many cases, the main obstacle is not technical ability, but the ability to manage thoughts, emotions, and mindset."
+
+        skills_title: "Using evidence-based clinical psychology and mental performance training, we work on skills such as:"
+
+        skill_1: "Managing pressure and stress"
+        skill_2: "Emotional regulation in demanding situations"
+        skill_3: "Building confidence and self-assurance"
+        skill_4: "Mental focus and concentration"
+        skill_5: "Developing discipline and consistency"
+        skill_6: "Handling failure and building resilience"
+
+        objective_title: "Objective:"
+        objective_description: "The goal is to help individuals develop a strong, focused, and resilient mindset that allows them to perform at their best without sacrificing emotional well-being."
+
+        audience_title: "This program is ideal for:"
+
+        audience_1: "High-performing professionals"
+        audience_2: "Entrepreneurs"
+        audience_3: "Executives"
+        audience_4: "Students facing demanding academic environments"
+        audience_5: "Competitive athletes"
+      emotional_intelligence_page:
+        title: "Emotional Intelligence for Your Business"
+
+        paragraph_1: "This program is designed for organizations that want to strengthen the emotional well-being and performance of their teams."
+
+        paragraph_2: "Emotional intelligence is one of the most important skills in today's workplace, as it directly impacts communication, decision-making, leadership, and stress management."
+
+        topics_title: "Through specialized workshops and training sessions, participants work on topics such as:"
+
+        topic_1: "Workplace stress management"
+        topic_2: "Effective communication"
+        topic_3: "Conflict resolution"
+        topic_4: "Emotionally intelligent leadership"
+        topic_5: "Teamwork"
+
+        objective_title: "Objective:"
+        objective_description: "To improve workplace culture, strengthen productivity, and develop emotionally healthy teams."
+      individual_therapy_page:
+        title: "Individual Psychotherapy"
+
+        paragraph_1: "Individual psychotherapy is a professional and confidential process designed to help people understand and overcome the emotional difficulties that affect their well-being."
+
+        topics_title: "Throughout the therapeutic process, areas such as the following may be addressed:"
+
+        topic_1: "Anxiety"
+        topic_2: "Stress"
+        topic_3: "Emotional difficulties"
+        topic_4: "Personal conflicts"
+        topic_5: "Personal growth"
+
+        paragraph_2: "Each therapeutic process is personalized according to the individual's needs."
+
+        session_duration_title: "Session Duration:"
+        session_duration: "60 minutes."
+
+        objective_title: "Objective:"
+        objective_description: "To help individuals improve their emotional well-being, develop effective coping skills, and achieve meaningful and lasting personal growth."
+      couples_therapy_page:
+        title: "Couples Therapy"
+
+        paragraph_1: "Couples therapy is focused on improving communication, resolving conflicts, and strengthening the relationship between both partners."
+
+        topics_title: "Many relationships face challenges related to:"
+
+        topic_1: "Communication problems"
+        topic_2: "Recurring conflicts"
+        topic_3: "Emotional distance"
+        topic_4: "Jealousy or lack of trust"
+        topic_5: "Difficulties in daily coexistence"
+
+        paragraph_2: "Through therapeutic sessions, couples learn strategies to better understand relationship dynamics and develop healthier ways of interacting."
+
+        objective_title: "Objective:"
+        objective_description: "To help couples rebuild communication, strengthen their emotional bond, and develop tools for a healthier and more stable relationship."
+      young_athletes_page:
+        title: "Sports Psychology for Young Athletes"
+
+        paragraph_1: "Competitive sports can be a highly positive experience for young people's development, but they can also create emotional pressure, performance anxiety, and fear of making mistakes."
+
+        challenges_title: "Many young athletes face situations such as:"
+
+        challenge_1: "Pre-competition nervousness"
+        challenge_2: "Fear of making mistakes"
+        challenge_3: "Frustration after losing"
+        challenge_4: "Pressure from coaches or parents"
+        challenge_5: "Difficulty coping with defeat"
+        challenge_6: "Self-confidence issues"
+
+        paragraph_2: "Sports psychology helps young athletes develop emotional skills that allow them to compete with greater confidence, enjoy their sport, and strengthen their character."
+
+        skills_title: "Throughout the process, skills such as the following are developed:"
+
+        skill_1: "Managing pressure during competition"
+        skill_2: "Controlling anxiety before competing"
+        skill_3: "Building confidence"
+        skill_4: "Emotional regulation during competition"
+        skill_5: "Developing a healthy competitive mindset"
+
+        paragraph_3: "The goal is not only to improve athletic performance, but also to strengthen the young athlete's emotional and personal development."
+
+        audience_title: "This program is designed for:"
+
+        audience_1: "Young athletes between 12 and 18 years old"
+        audience_2: "Parents who want to support their children's emotional development in sports"
+        audience_3: "Youth sports teams"
+
+        objective_title: "Objective:"
+        objective_description: "To develop mentally strong, resilient, and emotionally balanced athletes."
+
+  es:
+    navigation:
+      lang: ES
+      home: "Inicio"
+      about: "Sobre mí"
+      specializations: "Áreas de especialización"
+      services: "Servicios"
+      contact: "Contacto"
+      appointment: "Agenda una cita"
+    hero:
+      welcome: "Bienvenido a Lusan"
+      subtitle: "Centro Psicológico en Tijuana"
+      quote: "25 años acompañando a familias a sanar y fortalecer sus vínculos"
+      cta: "Agenda una cita"
+    about:
+      title: "Nuestro equipo de trabajo"
+      name: "Alejandra Sainz Huerta"
+      quote: "25 años acompañando a familias a sanar y fortalecer sus vínculos"
+      paragraph_1: "A lo largo de más de dos décadas, ha acompañado a niños, adolescentes, parejas y familias en procesos de crecimiento, reconciliación y bienestar emocional, brindando un espacio seguro para fortalecer la comunicación, sanar heridas y construir vínculos más saludables."
+      paragraph_2: "Con mi maestría en terapia familiar del CIDH y más de 25 años de experiencia, he tenido el privilegio de acompañar a cientos de familias, parejas e individuos en sus momentos más difíciles. He visto de cerca cómo las crisis de pareja pueden desgastar la salud emocional, cómo las adicciones fracturan los lazos familiares, y cómo la pérdida y el duelo nos desafían a reconstruirnos."
+      paragraph_3: "Mi trabajo comenzó en centros de rehabilitación en Rosarito (Rescatando Almas), donde aprendí que la recuperación no es solo individual, sino que involucra todo el sistema familiar. También he compartido este conocimiento como docente en UNIDEP y dando talleres en escuelas sobre bullying, educación sexual e inclusión."
+      paragraph_4: "Hoy, desde mi consultorio privado, acompaño a familias, parejas e individuos que buscan recuperar su equilibrio emocional. Trabajo especialmente con parejas en crisis, ayudándolas a reconstruir la comunicación y confianza, y con familias afectadas por adicciones, donde el camino hacia la recuperación es colectivo."
+    gallery:
+      title: "Galería"
+      description: "Conoce nuestro consultorio"
+    schedule:
+      title: "Agenda tu cita"
+      description: "Da el primer paso hacia tu bienestar emocional. Agenda de forma sencilla a través del calendario y selecciona el horario que mejor se adapte a ti."
+      item_1: "Selecciona la fecha y hora que prefieras."
+      item_2: "Confirma tu cita de manera rápida y segura."
+      item_3: "Atención presencial y en línea."
+      item_4: "Más de 25 años de experiencia acompañando a familias y parejas."
+      quote: "Cada proceso comienza con una conversación."
+      widget_title: "Reserve una cita"
+    services:
+      title: "Servicios"
+      description: "Encuentra el apoyo que necesitas para mejorar tu bienestar, rendimiento y calidad de vida."
+      intensive_workshops:
+        title: "Talleres Intensivos"
+        description: "Diseñamos talleres personalizados para empresas y equipos deportivos, enfocados en sus necesidades específicas."
+      students_program:
+        title: "Programa para Estudiantes"
+        description: "Apoyo personalizado para fortalecer el bienestar emocional, la concentración y el desempeño académico."
+      addiction_program:
+        title: "Programa Libre de Adicciones"
+        description: "Brindamos un tratamiento especializado para personas que buscan superar una adicción y recuperar su estabilidad."
+      high_performance:
+        title: "Psicología del Alto Rendimiento"
+        description: "Dirigido a pacientes con experiencia en terapia que desean potenciar habilidades mentales y desempeño personal."
+      emotional_intelligence:
+        title: "Inteligencia Emocional en tu Empresa"
+        description: "Capacitamos a empresas en habilidades emocionales, alineadas a la NOM-035 y bienestar laboral."
+      individual_therapy:
+        title: "Psicoterapia Individual"
+        description: "Proceso terapéutico personalizado con apoyo en evaluación psicológica y desarrollo emocional."
+      couples_therapy:
+        title: "Psicoterapia de Pareja"
+        description: "Espacio profesional para trabajar conflictos, mejorar la comunicación y fortalecer la relación."
+      young_athletes:
+        title: "Psicología para Deportistas Jóvenes"
+        description: "Entrenamiento mental para jóvenes atletas que buscan mejorar su enfoque, disciplina y rendimiento competitivo."
+    specializations:
+      title: "Áreas de especialización"
+      anxiety: "Especialista en ansiedad"
+      athletes: "Trabajo con deportistas de alto rendimiento"
+      addictions: "Adicciones"
+      couples: "Terapia de pareja"
+      adhd: "TDAH"
+      gambling: "Ludopatía (adicción al juego)"
+      personal_growth: "Desarrollo personal y emocional"
+      teens_adults: "Trabajo terapéutico con adolescentes y adultos"
+      description: "Mi enfoque se centra en objetivos claros, seguimiento profesional y resultados medibles, promoviendo la reintegración funcional y el bienestar integral de cada persona. Si deseas conocer más sobre mi metodología y servicios, será un gusto acompañarte en tu proceso."
+    stats:
+      patients: "Pacientes atendidos"
+      experience: "Años de experiencia"
+      success_cases: "Casos de éxito"
+      reviews: "Reseñas de 5 estrellas"
+    testimonials:
+    footer:
+      company_name: "Lusan Centro Psicológico"
+
+      links_title: "Links"
+      home: "Inicio"
+      about: "Sobre mí"
+      team: "Equipo"
+      contact: "Contacto"
+      privacy_policy: "Política de Privacidad"
+
+      therapies_title: "Terapias"
+      online_therapy: "Terapia en línea"
+      in_person_therapy: "Terapia presencial"
+
+      phone: "Teléfono"
+      email: "Correo"
+    about_page:
+      title: "Soy Gildardo Lucero, y ayudo a las personas a desarrollar fortaleza mental y constancia para enfrentar los retos de la vida."
+
+      paragraph_1: "Desde joven me apasionaron los deportes, tanto individuales como de equipo. Siempre me llamó la atención cómo algunos jugadores logran manejar la presión en momentos decisivos: cuando todo se define en una jugada, cuando se necesita carácter para ganar… o incluso para aceptar una derrota."
+
+      paragraph_2: "Con el tiempo, en mi trabajo clínico, comencé a notar algo que me impactó profundamente. Algunos jóvenes entre los 17 y 20 años llegaban a consulta emocionalmente derrotados después de experiencias difíciles en el deporte."
+
+      paragraph_3: "Muchos de ellos, además, comenzaban a desarrollar problemas de adicción, ya fuera a sustancias o a conductas como el juego."
+
+      paragraph_4: "Esto despertó en mí una inquietud profesional: entender a profundidad el fenómeno de las adicciones y cómo la presión, la frustración y la pérdida de rumbo pueden afectar la vida de una persona."
+
+      paragraph_5: "A lo largo de mi formación y experiencia clínica he podido comprender dos mundos que, aunque parecen distintos, muchas veces se conectan: el deporte y las adicciones."
+
+      paragraph_6: "Hoy mi trabajo se enfoca en ayudar a las personas a recuperar su dirección, fortalecer su carácter y desarrollar las habilidades emocionales necesarias para mantenerse firmes ante la presión, las recaídas y los desafíos de la vida."
+
+      psychologist_name: "Psicólogo Gildardo Lucero Sainz"
+
+      paragraph_7: "Acompaño a adolescentes y adultos que buscan recuperar su estabilidad emocional, mejorar sus relaciones y aprender a manejar la ansiedad y depresión."
+
+      paragraph_8: "Cuento con más de 12 años de experiencia clínica, así como con diplomado y certificaciones a nivel nacional en el tratamiento de adicciones y trastornos de ansiedad y depresión."
+
+      paragraph_9: "Trabajo bajo el enfoque cognitivo-conductual, un modelo basado en evidencia científica que se enfoca en generar cambios reales, prácticos y sostenibles en la vida de las personas."
+
+      paragraph_10: "Mi objetivo es que puedas comenzar a notar cambios desde las primeras sesiones, a través de herramientas claras y un trabajo terapéutico enfocado en resultados."
+
+      paragraph_11: "Desde el primer encuentro busco crear un espacio de confianza, apertura y trabajo colaborativo, donde puedas sentirte escuchado, comprendido y acompañado durante tu proceso de cambio."
+    contact_page:
+      title: "Contacto"
+      subtitle: "Encuentra nuestro consultorio"
+
+      whatsapp: "Whatsapp"
+      email: "Correo"
+
+      name_placeholder: "Nombre"
+      email_placeholder: "Correo"
+      subject_placeholder: "Asunto"
+      message_placeholder: "Mensaje"
+
+      loading: "Cargando"
+      success_message: "Tu mensaje ha sido enviado. ¡Gracias!"
+      send_button: "Enviar mensaje"
+    services_pages:
+      intensive_workshop_page:
+        title: "Talleres Intensivos"
+
+        paragraph_1: "Los talleres intensivos son espacios de aprendizaje y entrenamiento psicológico diseñados para desarrollar habilidades emocionales y de bienestar en un formato práctico y dinámico."
+
+        paragraph_2: "Durante estos talleres se trabajan herramientas basadas en psicología clínica y terapia cognitivo-conductual que permiten a los participantes comprender mejor sus emociones, mejorar su toma de decisiones y fortalecer su bienestar personal."
+
+        topics_title: "Temas que se abordan"
+
+        topic_1: "Manejo del estrés y la ansiedad"
+        topic_2: "Regulación emocional"
+        topic_3: "Autoestima y seguridad personal"
+        topic_4: "Manejo de conflictos"
+        topic_5: "Desarrollo personal"
+
+        modality_title: "Modalidad:"
+        modality_description: "Sesiones grupales intensivas con ejercicios prácticos y herramientas aplicables a la vida diaria."
+
+        objective_title: "Objetivo:"
+        objective_description: "Que los participantes se lleven estrategias concretas que puedan implementar inmediatamente en su vida personal o profesional."
+      students_program_page:
+        title: "Programa para estudiantes"
+
+        paragraph_1: "Este programa está diseñado para estudiantes de secundaria y preparatoria que enfrentan presión académica, estrés escolar, problemas emocionales o dificultades en su desarrollo personal."
+
+        paragraph_2: "Actualmente muchos jóvenes experimentan altos niveles de ansiedad, falta de motivación o dificultades para manejar la presión académica y social."
+
+        paragraph_3: "Este programa les ayuda a desarrollar habilidades psicológicas fundamentales para su bienestar y rendimiento."
+
+        areas_title: "El programa trabaja áreas como:"
+
+        area_1: "Manejo de ansiedad y estrés académico"
+        area_2: "Desarrollo de autoestima"
+        area_3: "Regulación emocional"
+        area_4: "Presión social y toma de decisiones"
+        area_5: "Hábitos saludables y disciplina personal"
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a los estudiantes a desarrollar estabilidad emocional, confianza en sí mismos y habilidades que les permitan afrontar los retos de esta etapa."
+      addiction_program_page:
+        title: "Programa Libre de Adicciones (Intensivo 6 semanas)"
+
+        paragraph_1: "El programa libre de adicciones está diseñado para personas que desean recuperar el control de su vida y superar conductas adictivas."
+
+        paragraph_2: "Las adicciones no solo afectan la salud física y emocional, sino también las relaciones personales, el desempeño laboral y la calidad de vida."
+
+        areas_title: "Este programa ofrece un acompañamiento psicológico estructurado enfocado en:"
+
+        area_1: "Identificación de detonantes emocionales"
+        area_2: "Manejo de impulsos"
+        area_3: "Desarrollo de autocontrol"
+        area_4: "Prevención de recaídas"
+        area_5: "Reconstrucción de hábitos saludables"
+
+        paragraph_3: "Se utilizan herramientas basadas en terapia cognitivo conductual y psicología clínica para ayudar a las personas a comprender su conducta y desarrollar estrategias sostenibles de cambio."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las personas a recuperar estabilidad emocional, fortalecer su autocontrol y construir una vida libre de adicciones."
+      high_performance_page:
+        title: "Psicología del Alto Rendimiento"
+
+        paragraph_1: "La psicología del alto rendimiento está enfocada en ayudar a personas que buscan alcanzar su máximo potencial en contextos donde la presión, la competencia y las expectativas son elevadas."
+
+        paragraph_2: "Profesionales, emprendedores, estudiantes de alto desempeño y deportistas suelen enfrentar altos niveles de estrés, autoexigencia y presión por resultados. En muchas ocasiones, el principal obstáculo no es la capacidad técnica, sino el manejo de la mente y las emociones."
+
+        skills_title: "A través de herramientas basadas en psicología clínica y entrenamiento mental, se trabajan habilidades como:"
+
+        skill_1: "Manejo de presión y estrés"
+        skill_2: "Regulación emocional en situaciones exigentes"
+        skill_3: "Fortalecimiento de la confianza y seguridad personal"
+        skill_4: "Enfoque mental y concentración"
+        skill_5: "Desarrollo de disciplina y consistencia"
+        skill_6: "Manejo del fracaso y resiliencia"
+
+        objective_title: "Objetivo:"
+        objective_description: "El objetivo es ayudar a las personas a desarrollar una mentalidad fuerte, clara y enfocada, que les permita rendir al máximo sin comprometer su bienestar emocional."
+
+        audience_title: "Este programa es ideal para:"
+
+        audience_1: "Profesionistas de alto desempeño"
+        audience_2: "Emprendedores"
+        audience_3: "Ejecutivos"
+        audience_4: "Estudiantes con alta exigencia académica"
+        audience_5: "Deportistas competitivos"
+      emotional_intelligence_page:
+        title: "Inteligencia Emocional en tu Empresa"
+
+        paragraph_1: "Este programa está dirigido a empresas que desean fortalecer el bienestar emocional y el desempeño de sus equipos de trabajo."
+
+        paragraph_2: "La inteligencia emocional es una de las habilidades más importantes en el entorno laboral actual, ya que influye directamente en la comunicación, la toma de decisiones, el liderazgo y el manejo del estrés."
+
+        topics_title: "A través de talleres y sesiones especializadas se trabajan temas como:"
+
+        topic_1: "Manejo del estrés laboral"
+        topic_2: "Comunicación efectiva"
+        topic_3: "Resolución de conflictos"
+        topic_4: "Liderazgo emocionalmente inteligente"
+        topic_5: "Trabajo en equipo"
+
+        objective_title: "Objetivo:"
+        objective_description: "Mejorar el clima laboral, fortalecer la productividad y desarrollar equipos de trabajo emocionalmente saludables."
+      individual_therapy_page:
+        title: "Psicoterapia Individual"
+
+        paragraph_1: "La psicoterapia individual es un proceso profesional y confidencial que tiene como objetivo ayudar a las personas a comprender y resolver las dificultades emocionales que afectan su bienestar."
+
+        topics_title: "A través del proceso terapéutico se trabajan temas como:"
+
+        topic_1: "Ansiedad"
+        topic_2: "Estrés"
+        topic_3: "Problemas emocionales"
+        topic_4: "Conflictos personales"
+        topic_5: "Crecimiento personal"
+
+        paragraph_2: "Cada proceso terapéutico es personalizado según las necesidades de cada persona."
+
+        session_duration_title: "Duración de sesión:"
+        session_duration: "60 minutos."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las personas a mejorar su bienestar emocional, desarrollar herramientas para afrontar los desafíos de la vida y promover cambios positivos y sostenibles."
+      couples_therapy_page:
+        title: "Psicoterapia de Pareja"
+
+        paragraph_1: "La psicoterapia de pareja está orientada a mejorar la comunicación, resolver conflictos y fortalecer la relación entre ambos miembros de la pareja."
+
+        topics_title: "Muchas relaciones enfrentan dificultades relacionadas con:"
+
+        topic_1: "Problemas de comunicación"
+        topic_2: "Conflictos recurrentes"
+        topic_3: "Distanciamiento emocional"
+        topic_4: "Celos o desconfianza"
+        topic_5: "Problemas en la convivencia"
+
+        paragraph_2: "A través de sesiones terapéuticas se trabajan estrategias que permiten comprender la dinámica de la relación y desarrollar nuevas formas de interacción más saludables."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las parejas a reconstruir la comunicación, fortalecer el vínculo emocional y desarrollar herramientas para una relación más sana y estable."
+      young_athletes_page:
+        title: "Psicología para Deportistas Jóvenes"
+
+        paragraph_1: "El deporte competitivo puede ser una experiencia muy positiva para el desarrollo de los jóvenes, pero también puede generar presión emocional, ansiedad por el rendimiento y miedo a cometer errores."
+
+        challenges_title: "Muchos jóvenes deportistas enfrentan situaciones como:"
+
+        challenge_1: "Nervios antes de competir"
+        challenge_2: "Miedo a equivocarse"
+        challenge_3: "Frustración después de perder"
+        challenge_4: "Presión de entrenadores o padres"
+        challenge_5: "Dificultad para manejar derrotas"
+        challenge_6: "Problemas de confianza en sí mismos"
+
+        paragraph_2: "La psicología deportiva ayuda a los jóvenes a desarrollar habilidades emocionales que les permitan competir con mayor seguridad, disfrutar el deporte y fortalecer su carácter."
+
+        skills_title: "Durante el proceso se trabajan habilidades como:"
+
+        skill_1: "Manejo de presión durante la competencia"
+        skill_2: "Control de ansiedad antes de jugar"
+        skill_3: "Fortalecimiento de la confianza"
+        skill_4: "Regulación emocional durante el juego"
+        skill_5: "Desarrollo de mentalidad competitiva saludable"
+
+        paragraph_3: "El objetivo no es solamente mejorar el rendimiento deportivo, sino también fortalecer el desarrollo emocional y personal del joven atleta."
+
+        audience_title: "Este programa está dirigido a:"
+
+        audience_1: "Jóvenes deportistas entre 12 y 18 años"
+        audience_2: "Padres que desean apoyar el desarrollo emocional de sus hijos en el deporte"
+        audience_3: "Equipos deportivos juveniles"
+
+        objective_title: "Objetivo:"
+        objective_description: "Desarrollar atletas mentalmente fuertes, resilientes y emocionalmente equilibrados."
