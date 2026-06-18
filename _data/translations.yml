@@ -1,13 +1,22 @@
 t:
   en:
     navigation:
-    hero: 
+    hero:
       welcome: "Welcome to Lusan"
       subtitle: "Psychological Center in Tijuana"
       quote: "25 years helping families heal and strengthen their bonds"
       cta: "Schedule an Appointment"
     about:
+      title: "Our Team"
+      name: "Alejandra Sainz Huerta"
+      quote: "25 years helping families heal and strengthen their relationships"
+      paragraph_1: "For more than two decades, she has worked with children, adolescents, couples, and families through processes of growth, reconciliation, and emotional well-being, providing a safe space to strengthen communication, heal emotional wounds, and build healthier relationships."
+      paragraph_2: "With a Master's degree in Family Therapy from CIDH and more than 25 years of experience, I have had the privilege of supporting hundreds of families, couples, and individuals through some of the most difficult moments of their lives. I have witnessed firsthand how relationship crises can impact emotional health, how addictions can fracture family bonds, and how loss and grief challenge us to rebuild ourselves."
+      paragraph_3: "My professional journey began in rehabilitation centers in Rosarito (Rescatando Almas), where I learned that recovery is not only an individual process but one that involves the entire family system. I have also shared this knowledge as a professor at UNIDEP and through workshops in schools covering topics such as bullying prevention, sexual education, and inclusion."
+      paragraph_4: "Today, through my private practice, I support families, couples, and individuals seeking to restore emotional balance. I work especially with couples in crisis, helping them rebuild communication and trust, and with families affected by addiction, where the path to recovery is a collective journey."
     gallery:
+      title: "Gallery"
+      description: "Get to know our office"
     schedule:
       title: "Schedule Your Appointment"
       description: "Take the first step toward emotional well-being. Easily schedule through the calendar and choose the time that works best for you."
@@ -18,7 +27,44 @@ t:
       quote: "Every process begins with a conversation."
       widget_title: "Book an appointment"
     services:
+      title: "Services"
+      description: "Find the support you need to improve your well-being, performance, and quality of life."
+      intensive_workshops:
+        title: "Intensive Workshops"
+        description: "We design customized workshops for companies and sports teams, focused on their specific needs."
+      students_program:
+        title: "Student Program"
+        description: "Personalized support to help students improve emotional well-being, focus, and academic performance."
+      addiction_program:
+        title: "Addiction Recovery Program"
+        description: "We provide specialized treatment for individuals seeking to overcome addiction and regain stability."
+      high_performance:
+        title: "High Performance Psychology"
+        description: "Designed for patients with prior therapy experience who want to enhance mental skills and personal performance."
+      emotional_intelligence:
+        title: "Emotional Intelligence for Your Company"
+        description: "We train organizations in emotional skills aligned with NOM-035 and workplace well-being."
+      individual_therapy:
+        title: "Individual Psychotherapy"
+        description: "A personalized therapeutic process with psychological assessment and emotional development support."
+      couples_therapy:
+        title: "Couples Therapy"
+        description: "A professional space to work through conflicts, improve communication, and strengthen relationships."
+      young_athletes:
+        title: "Psychology for Young Athletes"
+        description: "Mental training for young athletes seeking to improve focus, discipline, and competitive performance."
+
     specializations:
+      title: "Areas of Specialization"
+      anxiety: "Anxiety Specialist"
+      athletes: "High-Performance Athletes"
+      addictions: "Addictions"
+      couples: "Couples Therapy"
+      adhd: "ADHD"
+      gambling: "Gambling Addiction"
+      personal_growth: "Personal and Emotional Development"
+      teens_adults: "Therapy for Adolescents and Adults"
+      description: "My approach focuses on clear goals, professional follow-up, and measurable results, promoting functional reintegration and the overall well-being of each individual. If you would like to learn more about my methodology and services, I would be pleased to accompany you through your process."
     stats:
       patients: "Patients served"
       experience: "Years of experience"
@@ -27,13 +73,22 @@ t:
     testimonials:
   es:
     navigation:
-    hero: 
+    hero:
       welcome: "Bienvenido a Lusan"
       subtitle: "Centro Psicológico en Tijuana"
       quote: "25 años acompañando a familias a sanar y fortalecer sus vínculos"
       cta: "Agenda una cita"
     about:
+      title: "Nuestro equipo de trabajo"
+      name: "Alejandra Sainz Huerta"
+      quote: "25 años acompañando a familias a sanar y fortalecer sus vínculos"
+      paragraph_1: "A lo largo de más de dos décadas, ha acompañado a niños, adolescentes, parejas y familias en procesos de crecimiento, reconciliación y bienestar emocional, brindando un espacio seguro para fortalecer la comunicación, sanar heridas y construir vínculos más saludables."
+      paragraph_2: "Con mi maestría en terapia familiar del CIDH y más de 25 años de experiencia, he tenido el privilegio de acompañar a cientos de familias, parejas e individuos en sus momentos más difíciles. He visto de cerca cómo las crisis de pareja pueden desgastar la salud emocional, cómo las adicciones fracturan los lazos familiares, y cómo la pérdida y el duelo nos desafían a reconstruirnos."
+      paragraph_3: "Mi trabajo comenzó en centros de rehabilitación en Rosarito (Rescatando Almas), donde aprendí que la recuperación no es solo individual, sino que involucra todo el sistema familiar. También he compartido este conocimiento como docente en UNIDEP y dando talleres en escuelas sobre bullying, educación sexual e inclusión."
+      paragraph_4: "Hoy, desde mi consultorio privado, acompaño a familias, parejas e individuos que buscan recuperar su equilibrio emocional. Trabajo especialmente con parejas en crisis, ayudándolas a reconstruir la comunicación y confianza, y con familias afectadas por adicciones, donde el camino hacia la recuperación es colectivo."
     gallery:
+      title: "Galería"
+      description: "Conoce nuestro consultorio"
     schedule:
       title: "Agenda tu cita"
       description: "Da el primer paso hacia tu bienestar emocional. Agenda de forma sencilla a través del calendario y selecciona el horario que mejor se adapte a ti."
@@ -44,7 +99,43 @@ t:
       quote: "Cada proceso comienza con una conversación."
       widget_title: "Reserve una cita"
     services:
+      title: "Servicios"
+      description: "Encuentra el apoyo que necesitas para mejorar tu bienestar, rendimiento y calidad de vida."
+      intensive_workshops:
+        title: "Talleres Intensivos"
+        description: "Diseñamos talleres personalizados para empresas y equipos deportivos, enfocados en sus necesidades específicas."
+      students_program:
+        title: "Programa para Estudiantes"
+        description: "Apoyo personalizado para fortalecer el bienestar emocional, la concentración y el desempeño académico."
+      addiction_program:
+        title: "Programa Libre de Adicciones"
+        description: "Brindamos un tratamiento especializado para personas que buscan superar una adicción y recuperar su estabilidad."
+      high_performance:
+        title: "Psicología del Alto Rendimiento"
+        description: "Dirigido a pacientes con experiencia en terapia que desean potenciar habilidades mentales y desempeño personal."
+      emotional_intelligence:
+        title: "Inteligencia Emocional en tu Empresa"
+        description: "Capacitamos a empresas en habilidades emocionales, alineadas a la NOM-035 y bienestar laboral."
+      individual_therapy:
+        title: "Psicoterapia Individual"
+        description: "Proceso terapéutico personalizado con apoyo en evaluación psicológica y desarrollo emocional."
+      couples_therapy:
+        title: "Psicoterapia de Pareja"
+        description: "Espacio profesional para trabajar conflictos, mejorar la comunicación y fortalecer la relación."
+      young_athletes:
+        title: "Psicología para Deportistas Jóvenes"
+        description: "Entrenamiento mental para jóvenes atletas que buscan mejorar su enfoque, disciplina y rendimiento competitivo."
     specializations:
+      title: "Áreas de especialización"
+      anxiety: "Especialista en ansiedad"
+      athletes: "Trabajo con deportistas de alto rendimiento"
+      addictions: "Adicciones"
+      couples: "Terapia de pareja"
+      adhd: "TDAH"
+      gambling: "Ludopatía (adicción al juego)"
+      personal_growth: "Desarrollo personal y emocional"
+      teens_adults: "Trabajo terapéutico con adolescentes y adultos"
+      description: "Mi enfoque se centra en objetivos claros, seguimiento profesional y resultados medibles, promoviendo la reintegración funcional y el bienestar integral de cada persona. Si deseas conocer más sobre mi metodología y servicios, será un gusto acompañarte en tu proceso."
     stats:
       patients: "Pacientes atendidos"
       experience: "Años de experiencia"
