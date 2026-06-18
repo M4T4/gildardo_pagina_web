@@ -1,6 +1,13 @@
 t:
   en:
     navigation:
+      lang: "EN"
+      home: "Home"
+      about: "About Me"
+      specializations: "Areas of Specialization"
+      services: "Services"
+      contact: "Contact"
+      appointment: "Book an Appointment"
     hero:
       welcome: "Welcome to Lusan"
       subtitle: "Psychological Center in Tijuana"
@@ -53,7 +60,22 @@ t:
       young_athletes:
         title: "Psychology for Young Athletes"
         description: "Mental training for young athletes seeking to improve focus, discipline, and competitive performance."
+    footer:
+      company_name: "Lusan Psychological Center"
 
+      links_title: "Links"
+      home: "Home"
+      about: "About"
+      team: "Team"
+      contact: "Contact"
+      privacy_policy: "Privacy Policy"
+
+      therapies_title: "Therapies"
+      online_therapy: "Online Therapy"
+      in_person_therapy: "In-Person Therapy"
+
+      phone: "Phone"
+      email: "Email"
     specializations:
       title: "Areas of Specialization"
       anxiety: "Anxiety Specialist"
@@ -73,6 +95,13 @@ t:
     testimonials:
   es:
     navigation:
+      lang: ES
+      home: "Inicio"
+      about: "Sobre mí"
+      specializations: "Áreas de especialización"
+      services: "Servicios"
+      contact: "Contacto"
+      appointment: "Agenda una cita"
     hero:
       welcome: "Bienvenido a Lusan"
       subtitle: "Centro Psicológico en Tijuana"
@@ -142,3 +171,19 @@ t:
       success_cases: "Casos de éxito"
       reviews: "Reseñas de 5 estrellas"
     testimonials:
+    footer:
+      company_name: "Lusan Centro Psicológico"
+
+      links_title: "Links"
+      home: "Inicio"
+      about: "Sobre mí"
+      team: "Equipo"
+      contact: "Contacto"
+      privacy_policy: "Política de Privacidad"
+
+      therapies_title: "Terapias"
+      online_therapy: "Terapia en línea"
+      in_person_therapy: "Terapia presencial"
+
+      phone: "Teléfono"
+      email: "Correo"

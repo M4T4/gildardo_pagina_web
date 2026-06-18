@@ -6,6 +6,11 @@ layout: home
 lang: en
 ---
 
+{% assign lang_prefix = '' %}
+{% if page.lang == 'en' %}
+  {% assign lang_prefix = '/en' %}
+{% endif %}
+
 
 {% include home/new_hero.html %}
 {% include home/stats.html %}
