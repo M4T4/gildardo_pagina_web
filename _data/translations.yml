@@ -194,10 +194,120 @@ t:
         objective_title: "Objective:"
         objective_description: "To help individuals regain emotional stability, strengthen self-control, and build a life free from addiction."
       high_performance_page:
+        title: "High Performance Psychology"
+
+        paragraph_1: "High Performance Psychology is designed to help individuals reach their full potential in environments where pressure, competition, and expectations are high."
+
+        paragraph_2: "Professionals, entrepreneurs, high-achieving students, and athletes often face significant levels of stress, self-imposed pressure, and performance demands. In many cases, the main obstacle is not technical ability, but the ability to manage thoughts, emotions, and mindset."
+
+        skills_title: "Using evidence-based clinical psychology and mental performance training, we work on skills such as:"
+
+        skill_1: "Managing pressure and stress"
+        skill_2: "Emotional regulation in demanding situations"
+        skill_3: "Building confidence and self-assurance"
+        skill_4: "Mental focus and concentration"
+        skill_5: "Developing discipline and consistency"
+        skill_6: "Handling failure and building resilience"
+
+        objective_title: "Objective:"
+        objective_description: "The goal is to help individuals develop a strong, focused, and resilient mindset that allows them to perform at their best without sacrificing emotional well-being."
+
+        audience_title: "This program is ideal for:"
+
+        audience_1: "High-performing professionals"
+        audience_2: "Entrepreneurs"
+        audience_3: "Executives"
+        audience_4: "Students facing demanding academic environments"
+        audience_5: "Competitive athletes"
       emotional_intelligence_page:
+        title: "Emotional Intelligence for Your Business"
+
+        paragraph_1: "This program is designed for organizations that want to strengthen the emotional well-being and performance of their teams."
+
+        paragraph_2: "Emotional intelligence is one of the most important skills in today's workplace, as it directly impacts communication, decision-making, leadership, and stress management."
+
+        topics_title: "Through specialized workshops and training sessions, participants work on topics such as:"
+
+        topic_1: "Workplace stress management"
+        topic_2: "Effective communication"
+        topic_3: "Conflict resolution"
+        topic_4: "Emotionally intelligent leadership"
+        topic_5: "Teamwork"
+
+        objective_title: "Objective:"
+        objective_description: "To improve workplace culture, strengthen productivity, and develop emotionally healthy teams."
       individual_therapy_page:
+        title: "Individual Psychotherapy"
+
+        paragraph_1: "Individual psychotherapy is a professional and confidential process designed to help people understand and overcome the emotional difficulties that affect their well-being."
+
+        topics_title: "Throughout the therapeutic process, areas such as the following may be addressed:"
+
+        topic_1: "Anxiety"
+        topic_2: "Stress"
+        topic_3: "Emotional difficulties"
+        topic_4: "Personal conflicts"
+        topic_5: "Personal growth"
+
+        paragraph_2: "Each therapeutic process is personalized according to the individual's needs."
+
+        session_duration_title: "Session Duration:"
+        session_duration: "60 minutes."
+
+        objective_title: "Objective:"
+        objective_description: "To help individuals improve their emotional well-being, develop effective coping skills, and achieve meaningful and lasting personal growth."
       couples_therapy_page:
+        title: "Couples Therapy"
+
+        paragraph_1: "Couples therapy is focused on improving communication, resolving conflicts, and strengthening the relationship between both partners."
+
+        topics_title: "Many relationships face challenges related to:"
+
+        topic_1: "Communication problems"
+        topic_2: "Recurring conflicts"
+        topic_3: "Emotional distance"
+        topic_4: "Jealousy or lack of trust"
+        topic_5: "Difficulties in daily coexistence"
+
+        paragraph_2: "Through therapeutic sessions, couples learn strategies to better understand relationship dynamics and develop healthier ways of interacting."
+
+        objective_title: "Objective:"
+        objective_description: "To help couples rebuild communication, strengthen their emotional bond, and develop tools for a healthier and more stable relationship."
       young_athletes_page:
+        title: "Sports Psychology for Young Athletes"
+
+        paragraph_1: "Competitive sports can be a highly positive experience for young people's development, but they can also create emotional pressure, performance anxiety, and fear of making mistakes."
+
+        challenges_title: "Many young athletes face situations such as:"
+
+        challenge_1: "Pre-competition nervousness"
+        challenge_2: "Fear of making mistakes"
+        challenge_3: "Frustration after losing"
+        challenge_4: "Pressure from coaches or parents"
+        challenge_5: "Difficulty coping with defeat"
+        challenge_6: "Self-confidence issues"
+
+        paragraph_2: "Sports psychology helps young athletes develop emotional skills that allow them to compete with greater confidence, enjoy their sport, and strengthen their character."
+
+        skills_title: "Throughout the process, skills such as the following are developed:"
+
+        skill_1: "Managing pressure during competition"
+        skill_2: "Controlling anxiety before competing"
+        skill_3: "Building confidence"
+        skill_4: "Emotional regulation during competition"
+        skill_5: "Developing a healthy competitive mindset"
+
+        paragraph_3: "The goal is not only to improve athletic performance, but also to strengthen the young athlete's emotional and personal development."
+
+        audience_title: "This program is designed for:"
+
+        audience_1: "Young athletes between 12 and 18 years old"
+        audience_2: "Parents who want to support their children's emotional development in sports"
+        audience_3: "Youth sports teams"
+
+        objective_title: "Objective:"
+        objective_description: "To develop mentally strong, resilient, and emotionally balanced athletes."
+
   es:
     navigation:
       lang: ES
@@ -392,3 +502,117 @@ t:
 
         objective_title: "Objetivo:"
         objective_description: "Ayudar a las personas a recuperar estabilidad emocional, fortalecer su autocontrol y construir una vida libre de adicciones."
+      high_performance_page:
+        title: "Psicología del Alto Rendimiento"
+
+        paragraph_1: "La psicología del alto rendimiento está enfocada en ayudar a personas que buscan alcanzar su máximo potencial en contextos donde la presión, la competencia y las expectativas son elevadas."
+
+        paragraph_2: "Profesionales, emprendedores, estudiantes de alto desempeño y deportistas suelen enfrentar altos niveles de estrés, autoexigencia y presión por resultados. En muchas ocasiones, el principal obstáculo no es la capacidad técnica, sino el manejo de la mente y las emociones."
+
+        skills_title: "A través de herramientas basadas en psicología clínica y entrenamiento mental, se trabajan habilidades como:"
+
+        skill_1: "Manejo de presión y estrés"
+        skill_2: "Regulación emocional en situaciones exigentes"
+        skill_3: "Fortalecimiento de la confianza y seguridad personal"
+        skill_4: "Enfoque mental y concentración"
+        skill_5: "Desarrollo de disciplina y consistencia"
+        skill_6: "Manejo del fracaso y resiliencia"
+
+        objective_title: "Objetivo:"
+        objective_description: "El objetivo es ayudar a las personas a desarrollar una mentalidad fuerte, clara y enfocada, que les permita rendir al máximo sin comprometer su bienestar emocional."
+
+        audience_title: "Este programa es ideal para:"
+
+        audience_1: "Profesionistas de alto desempeño"
+        audience_2: "Emprendedores"
+        audience_3: "Ejecutivos"
+        audience_4: "Estudiantes con alta exigencia académica"
+        audience_5: "Deportistas competitivos"
+      emotional_intelligence_page:
+        title: "Inteligencia Emocional en tu Empresa"
+
+        paragraph_1: "Este programa está dirigido a empresas que desean fortalecer el bienestar emocional y el desempeño de sus equipos de trabajo."
+
+        paragraph_2: "La inteligencia emocional es una de las habilidades más importantes en el entorno laboral actual, ya que influye directamente en la comunicación, la toma de decisiones, el liderazgo y el manejo del estrés."
+
+        topics_title: "A través de talleres y sesiones especializadas se trabajan temas como:"
+
+        topic_1: "Manejo del estrés laboral"
+        topic_2: "Comunicación efectiva"
+        topic_3: "Resolución de conflictos"
+        topic_4: "Liderazgo emocionalmente inteligente"
+        topic_5: "Trabajo en equipo"
+
+        objective_title: "Objetivo:"
+        objective_description: "Mejorar el clima laboral, fortalecer la productividad y desarrollar equipos de trabajo emocionalmente saludables."
+      individual_therapy_page:
+        title: "Psicoterapia Individual"
+
+        paragraph_1: "La psicoterapia individual es un proceso profesional y confidencial que tiene como objetivo ayudar a las personas a comprender y resolver las dificultades emocionales que afectan su bienestar."
+
+        topics_title: "A través del proceso terapéutico se trabajan temas como:"
+
+        topic_1: "Ansiedad"
+        topic_2: "Estrés"
+        topic_3: "Problemas emocionales"
+        topic_4: "Conflictos personales"
+        topic_5: "Crecimiento personal"
+
+        paragraph_2: "Cada proceso terapéutico es personalizado según las necesidades de cada persona."
+
+        session_duration_title: "Duración de sesión:"
+        session_duration: "60 minutos."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las personas a mejorar su bienestar emocional, desarrollar herramientas para afrontar los desafíos de la vida y promover cambios positivos y sostenibles."
+      couples_therapy_page:
+        title: "Psicoterapia de Pareja"
+
+        paragraph_1: "La psicoterapia de pareja está orientada a mejorar la comunicación, resolver conflictos y fortalecer la relación entre ambos miembros de la pareja."
+
+        topics_title: "Muchas relaciones enfrentan dificultades relacionadas con:"
+
+        topic_1: "Problemas de comunicación"
+        topic_2: "Conflictos recurrentes"
+        topic_3: "Distanciamiento emocional"
+        topic_4: "Celos o desconfianza"
+        topic_5: "Problemas en la convivencia"
+
+        paragraph_2: "A través de sesiones terapéuticas se trabajan estrategias que permiten comprender la dinámica de la relación y desarrollar nuevas formas de interacción más saludables."
+
+        objective_title: "Objetivo:"
+        objective_description: "Ayudar a las parejas a reconstruir la comunicación, fortalecer el vínculo emocional y desarrollar herramientas para una relación más sana y estable."
+      young_athletes_page:
+        title: "Psicología para Deportistas Jóvenes"
+
+        paragraph_1: "El deporte competitivo puede ser una experiencia muy positiva para el desarrollo de los jóvenes, pero también puede generar presión emocional, ansiedad por el rendimiento y miedo a cometer errores."
+
+        challenges_title: "Muchos jóvenes deportistas enfrentan situaciones como:"
+
+        challenge_1: "Nervios antes de competir"
+        challenge_2: "Miedo a equivocarse"
+        challenge_3: "Frustración después de perder"
+        challenge_4: "Presión de entrenadores o padres"
+        challenge_5: "Dificultad para manejar derrotas"
+        challenge_6: "Problemas de confianza en sí mismos"
+
+        paragraph_2: "La psicología deportiva ayuda a los jóvenes a desarrollar habilidades emocionales que les permitan competir con mayor seguridad, disfrutar el deporte y fortalecer su carácter."
+
+        skills_title: "Durante el proceso se trabajan habilidades como:"
+
+        skill_1: "Manejo de presión durante la competencia"
+        skill_2: "Control de ansiedad antes de jugar"
+        skill_3: "Fortalecimiento de la confianza"
+        skill_4: "Regulación emocional durante el juego"
+        skill_5: "Desarrollo de mentalidad competitiva saludable"
+
+        paragraph_3: "El objetivo no es solamente mejorar el rendimiento deportivo, sino también fortalecer el desarrollo emocional y personal del joven atleta."
+
+        audience_title: "Este programa está dirigido a:"
+
+        audience_1: "Jóvenes deportistas entre 12 y 18 años"
+        audience_2: "Padres que desean apoyar el desarrollo emocional de sus hijos en el deporte"
+        audience_3: "Equipos deportivos juveniles"
+
+        objective_title: "Objetivo:"
+        objective_description: "Desarrollar atletas mentalmente fuertes, resilientes y emocionalmente equilibrados."
