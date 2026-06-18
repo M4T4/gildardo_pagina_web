@@ -9,33 +9,35 @@
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="100">
         <div class="container position-relative d-flex flex-column">
 
-          <!-- Contenido superior -->
           <div>
             <div class="welcome position-relative" data-aos="fade-down" data-aos-delay="100">
               <h2 style="
-          margin: 0;
-          font-size: 52px;
-          font-weight: 700;
-          color: var(--heading-color);
-          font-family: var(--heading-font);
-        ">
-                Bienvenido a Lusan
+                margin: 0;
+                font-size: 52px;
+                font-weight: 700;
+                color: var(--heading-color);
+                font-family: var(--heading-font);
+              ">
+                {{ site.data.translations.t[page.lang].hero.welcome }}
               </h2>
 
               <p style="font-size: 23px;">
-                Centro Psicológico en Tijuana
+                {{ site.data.translations.t[page.lang].hero.subtitle }}
               </p>
             </div>
 
             <p class="lead fst-italic mt-4">
-              "25 años acompañando a familias a sanar y fortalecer sus vínculos"
+              "{{ site.data.translations.t[page.lang].hero.quote }}"
             </p>
           </div>
 
-          <!-- Botón inferior -->
-          <div class="header branding d-flex align-items-center mt-auto pt-4" style="box-shadow: none; z-index: 1;">
-            <a class="cta-btn d-none d-sm-block ms-0" style="font-size: 21px;" href="/appoinment.html">Agenda una
-              cita</a>
+          <div class="header branding d-flex align-items-center mt-auto pt-4"
+            style="box-shadow: none; z-index: 1;">
+            <a class="cta-btn d-none d-sm-block ms-0"
+              style="font-size: 21px;"
+              href="/appoinment.html">
+              {{ site.data.translations.t[page.lang].hero.cta }}
+            </a>
           </div>
 
         </div>
@@ -44,7 +46,10 @@
       <!-- Fotografía -->
       <div class="col-lg-5" data-aos="fade-up" data-aos-delay="200">
         <div class="about-image">
-          <img src="assets/img/gil.jpg" alt="Alejandra Sainz Huerta" class="img-fluid shadow"
+          <img
+            src="assets/img/gil.jpg"
+            alt="Alejandra Sainz Huerta"
+            class="img-fluid shadow"
             style="border-radius: 30px;">
         </div>
       </div>
