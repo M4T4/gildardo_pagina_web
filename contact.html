@@ -16,13 +16,9 @@ lang: es
   </div>
 
   <div class="mb-5" data-aos="fade-up" data-aos-delay="200">
-    <iframe
-      style="border:0; width: 100%; height: 270px;"
+    <iframe style="border:0; width: 100%; height: 270px;"
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13455.431230780168!2d-117.0602927729487!3d32.52994444120344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d949e4b1374627%3A0xe6687c5c54a6cb21!2sLusan%20Psicolog%C3%ADa!5e0!3m2!1sen!2smx!4v1773945529266!5m2!1sen!2smx"
-      frameborder="0"
-      allowfullscreen=""
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade">
+      frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
 
@@ -52,43 +48,34 @@ lang: es
 
       <div class="col-lg-8">
 
-        <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+        <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="php-email-form" data-aos="fade-up"
           data-aos-delay="200">
+
+          <input type="hidden" name="form-name" value="contact">
+
+          <p hidden>
+            <input name="bot-field">
+          </p>
 
           <div class="row gy-4">
 
             <div class="col-md-6">
-              <input
-                type="text"
-                name="name"
-                class="form-control"
-                placeholder="{{ site.data.translations.t[page.lang].contact_page.name_placeholder }}"
-                required="">
+              <input type="text" name="name" class="form-control"
+                placeholder="{{ site.data.translations.t[page.lang].contact_page.name_placeholder }}" required="">
             </div>
 
             <div class="col-md-6">
-              <input
-                type="email"
-                class="form-control"
-                name="email"
-                placeholder="{{ site.data.translations.t[page.lang].contact_page.email_placeholder }}"
-                required="">
+              <input type="email" class="form-control" name="email"
+                placeholder="{{ site.data.translations.t[page.lang].contact_page.email_placeholder }}" required="">
             </div>
 
             <div class="col-md-12">
-              <input
-                type="text"
-                class="form-control"
-                name="subject"
-                placeholder="{{ site.data.translations.t[page.lang].contact_page.subject_placeholder }}"
-                required="">
+              <input type="text" class="form-control" name="subject"
+                placeholder="{{ site.data.translations.t[page.lang].contact_page.subject_placeholder }}" required="">
             </div>
 
             <div class="col-md-12">
-              <textarea
-                class="form-control"
-                name="message"
-                rows="6"
+              <textarea class="form-control" name="message" rows="6"
                 placeholder="{{ site.data.translations.t[page.lang].contact_page.message_placeholder }}"
                 required=""></textarea>
             </div>
