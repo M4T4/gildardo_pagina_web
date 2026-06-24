@@ -11,7 +11,7 @@ t:
     hero:
       welcome: "Welcome to Lusan"
       subtitle: "Psychological Center in Tijuana"
-      quote: "25 years helping families heal and strengthen their bonds"
+      quote: "3 years helping families heal and strengthen their bonds"
       cta: "Schedule an Appointment"
     about:
       title: "Our Team"
@@ -320,7 +320,7 @@ t:
     hero:
       welcome: "Bienvenido a Lusan"
       subtitle: "Centro Psicológico en Tijuana"
-      quote: "25 años acompañando a familias a sanar y fortalecer sus vínculos"
+      quote: "3 años acompañando a familias a sanar y fortalecer sus vínculos"
       cta: "Agenda una cita"
     about:
       title: "Nuestro equipo de trabajo"
