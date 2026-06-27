@@ -315,7 +315,9 @@ t:
 
         objective_title: "Objective:"
         objective_description: "To develop mentally strong, resilient, and emotionally balanced athletes."
-
+    success_page:
+      title: "Thank you for contacting us!"
+      message: "We have received your message and will get back to you soon."
   es:
     navigation:
       lang: ES
@@ -631,3 +633,6 @@ t:
 
         objective_title: "Objetivo:"
         objective_description: "Desarrollar atletas mentalmente fuertes, resilientes y emocionalmente equilibrados."
+    success_page:
+      title: "¡Gracias por contactarnos!"
+      message: "Hemos recibido tu mensaje y te responderemos pronto."
