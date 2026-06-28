@@ -1,160 +1,173 @@
 <!-- Testimonials Section -->
-<section id="testimonials" class="testimonials section ">
+<section id="testimonials" class="testimonials section">
 
   <div class="container">
 
     <div class="row align-items-center">
 
+      <!-- Info -->
       <div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
-        <h3>Testimoniales</h3>
-        <p>
-          Qué opinan nuestros pacientes
-        </p>
-        <div class="text-start mt-4">
-          <a href="https://www.doctoralia.com.mx/gildardo-lucero/psicologo/tijuana#profile-reviews" target="_blank"
-            rel="noopener noreferrer" class="text-decoration-none">
 
-            <div class="fw-semibold fs-5">⭐ 149 opiniones verificadas en Doctoralia</div>
+        <h3>
+          {{ site.data.translations.t[page.lang].testimonials.title }}
+        </h3>
+
+        <p>
+          {{ site.data.translations.t[page.lang].testimonials.subtitle }}
+        </p>
+
+        <div class="text-start mt-4">
+          <a
+            href="https://www.doctoralia.com.mx/gildardo-lucero/psicologo/tijuana#profile-reviews"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-decoration-none">
+
+            <div class="fw-semibold fs-5">
+              {{ site.data.translations.t[page.lang].testimonials.doctoralia.verified_reviews }}
+            </div>
+
             <small class="text-muted">
-              Leer todas las opiniones →
+              {{ site.data.translations.t[page.lang].testimonials.doctoralia.read_all }}
             </small>
 
           </a>
         </div>
+
       </div>
 
+      <!-- Slider -->
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="200">
 
         <div class="swiper init-swiper">
+
           <script type="application/json" class="swiper-config">
-                {
-                  "loop": true,
-                  "speed": 600,
-                  "autoplay": {
-                    "delay": 5000
-                  },
-                  "slidesPerView": "auto",
-                  "pagination": {
-                    "el": ".swiper-pagination",
-                    "type": "bullets",
-                    "clickable": true
-                  }
-                }
-              </script>
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              }
+            }
+          </script>
+
           <div class="swiper-wrapper">
 
+            <!-- Lydia -->
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <div class="d-flex">
-                  <div>
-                    <h3>Lydia Casillas</h3>
-                    <h4>16 de mayo de 2026</h4>
-                    <div class="stars">
-                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                  </div>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Llevo al rededor de 1 año tomando sesiones con Gildardo. De estar con ansiedad, autoestima baja
-                    e inseguridades a no dudar en tomar cualquier decisión porque se que no hay nada más poderoso que mi
-                    mentó y decisión. Excelente servicio, te dedica toda su atención durante la sesión, te escucha y da
-                    feedback al final de cada sesión. Lo recomiendo 100%!!!!</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="d-flex">
-                  <div>
-                    <h3>Gustavo Alexis</h3>
-                    <h4>7 de febrero de 2025</h4>
-                    <div class="stars">
-                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                  </div>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Me gusto mucho mi primera visita, el consultorio me pareció bastante agradable, la atención y la
-                    forma en la que se expresa me hizo sentir comodo y me inspira confianza para tener una segunda
-                    consulta</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
+                <h3>Lydia Casillas</h3>
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="d-flex">
-                  <div>
-                    <h3>Rosalinda Cuevas</h3>
-                    <h4>14 de marzo de 2025</h4>
-                    <div class="stars">
-                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                  </div>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Mis hijos están muy bien con sus terapias. Super recomendado.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
+                <h4>
+                  {{ site.data.translations.t[page.lang].testimonials.reviews.lydia.date }}
+                </h4>
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <div class="d-flex">
-                  <div>
-                    <h3>Jonny</h3>
-                    <h4>7 de enero de 2024</h4>
-                    <div class="stars">
-                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                  </div>
-                </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Me ha parecido excelente su manera de tratar con las personas desde la primera cita, y llevo
-                    algunos meses de terapia y sin duda me ha servido demasiado, un psicólogo muy profesional.</span>
+                  <span>
+                    {{ site.data.translations.t[page.lang].testimonials.reviews.lydia.content }}
+                  </span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-              </div>
-            </div><!-- End testimonial item -->
 
+              </div>
+            </div>
+
+            <!-- Gustavo -->
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <div class="d-flex">
-                  <div>
-                    <h3>Teresa</h3>
-                    <h4>19 de mayo de 2026</h4>
-                    <div class="stars">
-                      <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                    </div>
-                  </div>
-                </div>
+
+                <h3>Gustavo Alexis</h3>
+
+                <h4>
+                  {{ site.data.translations.t[page.lang].testimonials.reviews.gustavo.date }}
+                </h4>
+
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Eternamente agradecida por el apoyo hacia mi hijo adolescente, diagnóstico acertado tratamiento
-                    muy favorable, le dio el alta con las herramientas necesarias para su estabilidad emocional.
-                    Antes habíamos acudido a otros psicólog@s sin buenos resultados. Lo recomiendo ampliamente y sin
-                    duda volveríamos con el de ser necesario.
-                    Gracias</span>
+                  <span>
+                    {{ site.data.translations.t[page.lang].testimonials.reviews.gustavo.content }}
+                  </span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
+
               </div>
-            </div><!-- End testimonial item -->
+            </div>
+
+            <!-- Rosalinda -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+
+                <h3>Rosalinda Cuevas</h3>
+
+                <h4>
+                  {{ site.data.translations.t[page.lang].testimonials.reviews.rosalinda.date }}
+                </h4>
+
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>
+                    {{ site.data.translations.t[page.lang].testimonials.reviews.rosalinda.content }}
+                  </span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+
+              </div>
+            </div>
+
+            <!-- Jonny -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+
+                <h3>Jonny</h3>
+
+                <h4>
+                  {{ site.data.translations.t[page.lang].testimonials.reviews.jonny.date }}
+                </h4>
+
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>
+                    {{ site.data.translations.t[page.lang].testimonials.reviews.jonny.content }}
+                  </span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+
+              </div>
+            </div>
+
+            <!-- Teresa -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+
+                <h3>Teresa</h3>
+
+                <h4>
+                  {{ site.data.translations.t[page.lang].testimonials.reviews.teresa.date }}
+                </h4>
+
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>
+                    {{ site.data.translations.t[page.lang].testimonials.reviews.teresa.content }}
+                  </span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+
+              </div>
+            </div>
 
           </div>
+
           <div class="swiper-pagination"></div>
+
         </div>
 
       </div>
@@ -164,4 +177,3 @@
   </div>
 
 </section>
-<!-- /Testimonials Section -->
