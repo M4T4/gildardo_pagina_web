@@ -100,7 +100,6 @@ t:
       experience: "Years of experience"
       success_cases: "Success stories"
       reviews: "5-star reviews"
-    testimonials:
     about_page:
       title: "I am Gildardo Lucero, and I help people develop mental strength and resilience to face life's challenges."
 
@@ -315,6 +314,38 @@ t:
 
         objective_title: "Objective:"
         objective_description: "To develop mentally strong, resilient, and emotionally balanced athletes."
+    success_page:
+      title: "Thank you for contacting us!"
+      message: "We have received your message and will get back to you soon."
+
+    testimonials:
+      title: "Testimonials"
+      subtitle: "What Our Patients Say"
+
+      doctoralia:
+        verified_reviews: "⭐ 149 verified reviews on Doctoralia"
+        read_all: "Read all reviews →"
+
+      reviews:
+        lydia:
+          date: "May 16, 2026"
+          content: "I have been attending therapy sessions with Gildardo for about a year. I went from struggling with anxiety, low self-esteem, and insecurity to feeling confident in making decisions because I now know there is nothing more powerful than my own mind and determination. He provides excellent care, gives you his full attention during every session, listens carefully, and offers thoughtful feedback at the end of each appointment. I highly recommend him!"
+
+        gustavo:
+          date: "February 7, 2025"
+          content: "I had a great first visit. The office was very welcoming, and Gildardo's approach and communication style made me feel comfortable and gave me the confidence to schedule a second appointment."
+
+        rosalinda:
+          date: "March 14, 2025"
+          content: "My children are doing very well with their therapy sessions. Highly recommended."
+
+        jonny:
+          date: "January 7, 2024"
+          content: "From my very first appointment, I was impressed by the way he treats people. I've been in therapy with him for several months now, and it has helped me tremendously. He is a highly professional psychologist."
+
+        teresa:
+          date: "May 19, 2026"
+          content: "I am forever grateful for the support he provided to my teenage son. His diagnosis was accurate, and the treatment was highly effective. He discharged him with the tools he needed to maintain his emotional well-being. We had previously seen other psychologists without good results. I highly recommend him, and we would not hesitate to return if needed. Thank you."
 
   es:
     navigation:
@@ -400,7 +431,6 @@ t:
       experience: "Años de experiencia"
       success_cases: "Casos de éxito"
       reviews: "Reseñas de 5 estrellas"
-    testimonials:
     footer:
       company_name: "Lusan Centro Psicológico"
 
@@ -631,3 +661,34 @@ t:
 
         objective_title: "Objetivo:"
         objective_description: "Desarrollar atletas mentalmente fuertes, resilientes y emocionalmente equilibrados."
+    success_page:
+      title: "¡Gracias por contactarnos!"
+      message: "Hemos recibido tu mensaje y te responderemos pronto."
+    testimonials:
+      title: "Testimoniales"
+      subtitle: "Qué opinan nuestros pacientes"
+
+      doctoralia:
+        verified_reviews: "⭐ 149 opiniones verificadas en Doctoralia"
+        read_all: "Leer todas las opiniones →"
+
+      reviews:
+        lydia:
+          date: "16 de mayo de 2026"
+          content: "Llevo alrededor de un año tomando sesiones con Gildardo. Pasé de vivir con ansiedad, baja autoestima e inseguridades a sentirme segura al tomar cualquier decisión, porque ahora sé que no hay nada más poderoso que mi mente y mi determinación. Brinda un excelente servicio, dedica toda su atención durante la sesión, escucha con empatía y ofrece retroalimentación al finalizar cada consulta. ¡Lo recomiendo al 100%!"
+
+        gustavo:
+          date: "7 de febrero de 2025"
+          content: "Me gustó mucho mi primera visita. El consultorio me pareció muy agradable y la atención, así como su forma de expresarse, me hicieron sentir cómodo y me inspiraron la confianza suficiente para agendar una segunda consulta."
+
+        rosalinda:
+          date: "14 de marzo de 2025"
+          content: "Mis hijos están muy bien con sus terapias. Súper recomendado."
+
+        jonny:
+          date: "7 de enero de 2024"
+          content: "Desde la primera cita me pareció excelente la manera en que trata a las personas. Llevo varios meses en terapia con él y, sin duda, me ha ayudado muchísimo. Es un psicólogo muy profesional."
+
+        teresa:
+          date: "19 de mayo de 2026"
+          content: "Estoy eternamente agradecida por el apoyo que brindó a mi hijo adolescente. Su diagnóstico fue acertado y el tratamiento muy efectivo. Le dio de alta con las herramientas necesarias para mantener su estabilidad emocional. Antes habíamos acudido a otros psicólogos sin obtener buenos resultados. Lo recomiendo ampliamente y, sin duda, volveríamos con él si fuera necesario. ¡Gracias!"
