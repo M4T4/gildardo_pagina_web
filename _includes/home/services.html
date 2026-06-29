@@ -1,3 +1,8 @@
+{% assign lang_prefix = '' %}
+{% if page.lang == 'en' %}
+  {% assign lang_prefix = '/en' %}
+{% endif %}
+
 <!-- Services Section -->
 <section id="services" class="services section">
 
@@ -16,7 +21,7 @@
           <div class="icon">
             <i class="bi bi-alarm"></i>
           </div>
-          <a href="/intensive_workshops.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/intensive_workshops.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.intensive_workshops.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.intensive_workshops.description }}</p>
@@ -28,7 +33,7 @@
           <div class="icon">
             <i class="bi bi-book"></i>
           </div>
-          <a href="/students_program.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/students_program.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.students_program.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.students_program.description }}</p>
@@ -40,7 +45,7 @@
           <div class="icon">
             <i class="fas fa-hospital-user"></i>
           </div>
-          <a href="/addiction_program.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/addiction_program.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.addiction_program.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.addiction_program.description }}</p>
@@ -52,7 +57,7 @@
           <div class="icon">
             <i class="bi bi-person-arms-up"></i>
           </div>
-          <a href="/high-performance.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/high-performance.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.high_performance.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.high_performance.description }}</p>
@@ -64,7 +69,7 @@
           <div class="icon">
             <i class="bi bi-building"></i>
           </div>
-          <a href="/emotional_intelligence_for_business.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/emotional_intelligence_for_business.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.emotional_intelligence.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.emotional_intelligence.description }}</p>
@@ -76,7 +81,7 @@
           <div class="icon">
             <i class="bi bi-person-fill"></i>
           </div>
-          <a href="/individual_psicotherapy.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/individual_psychotherapy.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.individual_therapy.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.individual_therapy.description }}</p>
@@ -88,7 +93,7 @@
           <div class="icon">
             <i class="bi bi-people-fill"></i>
           </div>
-          <a href="/couples_therapy.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/couples_therapy.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.couples_therapy.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.couples_therapy.description }}</p>
@@ -100,7 +105,7 @@
           <div class="icon">
             <i class="bi bi-person-walking"></i>
           </div>
-          <a href="/young_athletes.html" class="stretched-link">
+          <a href="{{ lang_prefix }}/services/young_athletes.html" class="stretched-link">
             <h3>{{ site.data.translations.t[page.lang].services.young_athletes.title }}</h3>
           </a>
           <p>{{ site.data.translations.t[page.lang].services.young_athletes.description }}</p>
